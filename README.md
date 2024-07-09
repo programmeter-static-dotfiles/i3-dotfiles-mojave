@@ -1,5 +1,3 @@
-# i3wm dotfiles
-These are my dotfiles for i3wm, on my Debian installation. There are 2 themes - a blue theme and a yellow/orange theme. **The `install.sh` file is only meant for my personal use. It installs programs I use that you probably do not need. Do not run it.**
 ## Screenshots
 ### Workspace
 ![Workspace screenshot](screenshots/i3wm-rice.png)
